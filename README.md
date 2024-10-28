@@ -1,0 +1,2 @@
+# GlobalSoft-Zadatak
+GlobalSoft Zadatak
